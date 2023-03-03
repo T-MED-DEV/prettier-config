@@ -8,6 +8,7 @@
 
 ```bash
 $ yarn add --dev @t-med/prettier-config
+$ npm install --dev @t-med/prettier-config
 ```
 
 **Edit `package.json`**:
