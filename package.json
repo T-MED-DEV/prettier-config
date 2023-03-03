@@ -1,0 +1,9 @@
+{
+  "name": "@t-med/prettier-config",
+  "version": "1.0.0",
+  "description": "T-MED Prettier Config",
+  "main": "index.json",
+  "repository": "git@github.com:T-MED-DEV/prettier-config.git",
+  "author": "Thomas LITT <thomas.litt@t-med.fr>",
+  "license": "MIT"
+}
